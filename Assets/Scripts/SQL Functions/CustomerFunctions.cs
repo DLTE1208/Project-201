@@ -9,6 +9,8 @@ using System.Data.SqlClient;
 /// </summary>
  public class CustomerFunctions
 {
+    public string anotherTest = "anotherTest";
+
     /// <summary>
     /// 根据CNO取得该用户所有信息，并更新相关引用变量
     /// </summary>
