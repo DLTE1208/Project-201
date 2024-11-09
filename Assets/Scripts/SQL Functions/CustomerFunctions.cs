@@ -9,8 +9,6 @@ using System.Data.SqlClient;
 /// </summary>
  public class CustomerFunctions
 {
-    private string justForTest = "This is just for test";
-
     /// <summary>
     /// 根据CNO取得该用户所有信息，并更新相关引用变量
     /// </summary>
