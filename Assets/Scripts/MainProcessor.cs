@@ -7,6 +7,7 @@ public class MainProcessor : MonoBehaviour
     private string connectionString = "server = DESKTOP-D65RF5L\\MSSQLSERVER2; uid = admin; pwd = 123456; database = RestaurantOfDLT";  //用于链接的数据库的字符串
     //private CustomerFunctions myFunctions;
     //second
+    public int a = 10;
 
     private void Awake()
     {
